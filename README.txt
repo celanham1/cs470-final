@@ -1,0 +1,1 @@
+CS470 Intro to Computer Graphics term project for the Fall 2013 semester
